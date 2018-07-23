@@ -2,4 +2,4 @@
 
 var greet = require('./hello');
 
-greet('Totoro');
+greet('Totoro v2');
